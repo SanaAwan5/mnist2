@@ -26,11 +26,11 @@ pylru==1.0.9              # via web3
 pysha3==1.0.2             # via ethereum-utils, web3
 pytest-flake8==0.8.1
 pytest==3.2.2
-requests==2.18.4          # via ipfsapi, web3
+requests==2.20.0          # via ipfsapi, web3
 rlp==0.6.0                # via web3
 scikit-learn==0.19.0
 scipy==0.19.1
 six==1.11.0               # via ipfsapi
 toolz==0.8.2              # via cytoolz, web3
 urllib3==1.22             # via requests
-web3==3.4.4
+web3==3.15.0
